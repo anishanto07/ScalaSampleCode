@@ -10,4 +10,8 @@ Code to display error logs from log file (Sample Code)
 5. Click on the green play button arrow and run it as a Scala application.
 6. Check the console for the output.
 
+# Code logic
+
+Explain here....
+
 # Thank you.
