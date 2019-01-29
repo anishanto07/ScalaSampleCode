@@ -21,9 +21,8 @@ Log file
 # Output
 
 
-ScalaSampleCode/Output.png
       
-![Output](ScalaSampleCode/Output.png)
+![Output](Output.png)
 
 
 # Thank you
