@@ -12,7 +12,12 @@ Code to display error logs from log file (Sample Code)
 
 # Code logic
 
-Explain here....
+1. Data Input file - Log File
+2. Use printWriter to print the output to a text file
+3. Read through each lines of the log file
+4. Filter the lines which contains Error keyword
+5. Print the date and error description using substring
+6. Close the output file
 
 # Input
 
