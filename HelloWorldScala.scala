@@ -6,9 +6,9 @@ import java.io.PrintWriter
 object HelloWorldScala {
   def main(args: Array[String]) {
 
-    val filename = "C:/Users/poojar745/Documents/Handson/scala/scalaText.txt"
+    val filename = "C:/Users/anish745/Documents/Handson/scala/scalaText.txt"
     
-    val writer = new PrintWriter(new File("C:/Users/poojar745/Documents/Handson/scala/Write.txt"))
+    val writer = new PrintWriter(new File("C:/Users/anish745/Documents/Handson/scala/scalaText.txt"))
 
     val bufferedSource = Source.fromFile(filename)
     print("Timestamp")
