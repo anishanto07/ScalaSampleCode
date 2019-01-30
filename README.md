@@ -16,7 +16,7 @@ Code to display error logs from log file (Sample Code)
 2. Use printWriter to print the output to a text file
 3. Read through each lines of the log file
 4. Filter the lines which contains Error keyword
-5. Print the date and error description using substring
+5. Print the date and error description using substring to a structured format (Table like view)
 6. Close the output file
 
 # Input
